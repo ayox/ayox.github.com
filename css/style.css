@@ -13,13 +13,13 @@ body,
     background-size: cover;
 }
 
-/*#main-header, #main-header-paragraph {*/
-/*color: #FFFFFF;*/
-/*}*/
-
-.flex-center {
-    color: #fff;
+#main-header, #main-header-paragraph {
+color: #FFFFFF;
 }
+
+/*.flex-center {*/
+    /*color: #fff;*/
+/*}*/
 
 .navbar {
     background-color: transparent;
