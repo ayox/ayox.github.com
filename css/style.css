@@ -44,3 +44,11 @@ color: #FFFFFF;
         background-color: #4285f4;
     }
 }
+/*skills*/
+.feature-box .features-big .fa {
+    font-size: 4rem;
+    padding: inherit;
+}
+.z-depth-0, .section .map-container img, .card-cascade.wider, .card-cascade-2 {
+    box-shadow: none !important;
+}
